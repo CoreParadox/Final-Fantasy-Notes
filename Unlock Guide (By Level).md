@@ -24,7 +24,7 @@ tags: [Gaming/FFXIV]
     * Complete the Guildhest: Basic Training: Enemy Parties.
 * Lavender Beds Access: 
     * Complete [Where the Heart Is (Lavender Beds)](https://ffxiv.gamerescape.com/wiki/Where_the_Heart_Is_(Lavender_Beds)) Quest.
-## Level 14 Unlock
+## Level 14
 * Step Dance Emote: 
     * Complete [Good for What Ales You](https://ffxiv.gamerescape.com/wiki/Good_for_What_Ales_You) quest in Limsa Lominsa.
 * Ball Dance Emote: 
@@ -305,3 +305,165 @@ tags: [Gaming/FFXIV]
     * Unlocked during Fragments of Truth Chronicles of a New Era.
 * Second Coil of Bahamut (Savage): 
     * Unlocked during Sing Me Another Song Chronicles of a New Era quest.
+    
+## Heavensward (Level 50)
+* Astrologian Specialization:
+    * Unlocked from "Stairway to the Heavens" quest.
+* Dark Knight Specialization:
+    * Unlocked from "Our End" quest.
+* Machinist Specialization:
+    * Unlocked from "Savior of Skysteel" quest.
+* Collectable System:
+    * Unlocked from "Inscrutable Tastes" quest.
+## Level 51
+* The Dusk Vigil Dungeon:
+    * Unlocked from "For All the Nights to Come" quest.
+* Coerthas Western Highlands Aether Current
+    * Unlocked after finding field currents and from:
+        * "Purple Flame, Purple Flame" MSQ.
+        * "Bridge over Frozen Water" quest.
+        * "Baby Steps" quest.
+        * "For All the Nights to Come" quest.
+        * "Protecting What's Important" quest.
+## Level 52
+* Sightseeing Log Expansion:
+    * Unlocked by talking to Kester Ironheart after completing Where the Chocobos Roam MSQ.
+* Chocobo Mount Flight Ability: Ability to fly granted to chocobo companions, legacy chocobos, and fat chocobos 
+    * Unlocked from "I Believe I Can Fly" quest.
+## Level 53
+* Rank 1 Heavensward Daily Hunts 
+    * Unlocked from "Let the Clan Hunt Begin" quest.
+* Sohm Al Dungeon:
+    * Unlocked from "Mourn in Passing" MSQ.
+* Thok ast Thok (Hard) Trial:
+    * Unlocked from "Lord of the Hive" MSQ.
+* Dravanian Forelands Aether Current
+    * Unlocked after finding field currents and from:
+        * "Mourn in Passing" MSQ.
+        * "Some Bad News" quest.
+        * "Stolen Munitions" quest.
+        * "The Hunter Becomes the Kweh" quest.
+        * "A Lesson in Humility" quest.
+* Vath Quests:
+    * Unlocked from "The Naming of Vath" quest.
+## Level 55
+* Moogle Quests:
+    * Unlocked starting with Tricks and Stones" quest.
+* The Aery Dungeon:
+    * Unlocked from "Into the Aery" MSQ.
+* The Churning Mists Aether Current
+    * Unlocked after finding field currents and from:
+        * "Into the Aery" MSQ 
+        * "The Bathing Bully" quest
+        * "Road Kill" quest
+        * "Waiting to Inhale and Hide Your Moogles" quest.
+## Level 56
+* Rank 2 Heavensward Daily Hunts
+    * Unlocked from "Better Bill Hunting" quest.
+## Level 57
+* The Vault Dungeon:
+    * Unlocked from "A Knight's Calling" MSQ.
+* The Limitless Blue (Hard) Trial:
+    * Unlocked from "Bolt, Chain, and Island" MSQ.
+* Sea of Clouds Aether Current: 
+    * Unlocked after finding field currents and from:
+        * "Bolt, Chain, and Island" MSQ.
+        * "Clipped Wings" quest.
+        * "Honoring the Past" quest.
+        * "Flying the Nest" quest.
+        * "Sleepless in Ok' Zundu" quest.
+* Wind-up Cid:
+        * Unlocked from "A Difference of Opinion" MSQ.
+* Vanu Vanu Quests:
+    * Unlocked from "Three Beaks to the Wind" quest.
+## Level 59
+* Rank 3 Heavensward Daily Hunts
+    * Unlocked from "Top Marks" quest.
+* The Dravanian Hinterlands Aether Current: Unlocked after finding field currents and from "Forbidden Knowledge MSQ and Louder than Words, Ebb and Aetherflow, Taking Stock and Saro Roggo's Common Life" quests.
+    * Azys Lla Aether Current:
+        * Unlocked from "Fetters of Lament" MSQ.
+    * The Great Gubal Library Dungeon:
+        * Unlocked from "Forbidden Knowledge" MSQ.
+## Level 60
+* Elite B Rank Heavensward Weekly Hunts
+      * Unlocked from "Elite and Dangerous" quest.
+* The Aetherochemical Research Facility Dungeon:
+    * Unlocked from "Heavensward (Quest) MSQ.
+* A Gentleman Falls, Rather than Flies (beginning chain for the rest of the Further Hildibrand Adventures) 
+    * Unlocked after completing the Heavensward (Quest) MSQ. 
+* The Fractal Continuum Dungeon:
+    * Unlocked from "Do It for Gilly" quest.
+* Accompaniment Node (Minion):
+    * Unlocked from "Do It for Gilly" quest.
+* Neverreap Dungeon:
+    * Unlocked from "Reap What You Sow" quest.
+* The Singularity Reactor Trial:
+    * Unlocked from "Heavensward (Quest)" MSQ.
+* Stone, Sky, Sea:
+    * Unlocked from "the A Striking Opportunity" quest.
+* Wondrous Tails:
+    * Unlocked from "the Keeping Up with the Aliapohs" quest.
+* The Aquapolis:
+    * Unlocked by finding the entrance while using a Dragonskin Treasure Map.
+* Zhloe's Custom Deliveries:
+    * Unlocked from "Arms Wide Open" quest.
+* Thok ast Thok (Extreme) Trial:
+    * Unlocked from "Thok Around the Clock" quest
+* The Limitless Blue (Extreme) Trial:
+    * Unlocked from "Diabolical Bismarck" quest.
+* Saint Mocianne's Arboretum Dungeon:
+    * Unlocked from "An Overgrown Ambition" quest.
+* Pharos Sirius (Hard) Dungeon:
+    * Unlocked from "Things Are Getting Sirius" quest.
+* Alexander (Gordias):
+    * Unlocked from "Disarmed" quest.
+* The Void Ark:
+    * Unlocked from "To Rule the Skies" quest.
+* The Antitower Dungeon:
+    * Unlocked from "Word of the Mother" MSQ.
+* The Lost City of Amdapor (Hard) Dungeon:
+    * Unlocked from "One More Night in Amdapor" quest.
+* The Minstrel's Ballad: Thordan's Reign:
+    * Unlocked from "Thordan's Reign" quest.
+* Containment Bay S1T7:
+    * Unlocked from "When the Bough Wakes" quest.
+* Alexander (Gordias) (Savage):
+    * Unlocked from "A Song of Steam and Steel" quest.
+* Alexander (Midas):
+    * Unlocked from "Rearmed" quest.
+* Hullbreaker Isle (Hard) Dungeon:
+    * Unlocked from "Storming the Hull" quest.
+* Sohr Khai Dungeon:
+    * Unlocked from "Winning Over the Wyrm" MSQ.
+* Containment Bay S1T7 (Extreme):
+    * Unlocked from "A Fiendish Likeness" quest.
+* Alexander (Midas) (Savage):
+    * Unlocked from "A Refrain for the Undaunted" quest.
+* The Weeping City of Mhach:
+    * Unlocked from "The Weeping City" quest.
+* Xelphatol Dungeon:
+    * Unlocked from "Shadows of the First" MSQ.
+* The Great Gubal Library (Hard) Dungeon:
+    * Unlocked from "Let Me Gubal That for You" quest.
+* The Final Steps of Faith:
+    * Unlocked from "An End to the Song MSQ.
+* The Minstrel's Ballad: Nidhogg's Rage:
+    * Unlocked from "Nidhogg's Rage" quest.
+* Containment Bay P1T6:
+    * Unlocked from "Balance unto All" quest.
+* Alexander - The Creator:
+    * Unlocked from "Coeurl and the Colossus" quest.
+* Containment Bay P1T6 (Extreme):
+    * Unlocked from "A Deific Simulacrum" quest.
+* Baelsar's Wall:
+    * Unlocked from "Griffin, Griffin on the Wall" MSQ.
+* Sohm Al (Hard):
+    * Unlocked from "Fires of Sohm Al" quest.
+* Alexander - The Creator (Savage):
+    * Unlocked from "Who Lives, Who Dies, Who Retells Your Story" quest.
+* Dun Scaith:
+    * Unlocked from "Where Shadows Reign" quest.
+* Containment Bay Z1T9:
+    * Unlocked from "The Last Pillar to Fall" quest.
+* Containment Bay Z1T9 (Extreme):
+    * Unlocked from "A Demonic Duplicate" quest
